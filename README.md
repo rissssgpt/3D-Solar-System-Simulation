@@ -32,3 +32,6 @@ This project is a 3D simulation of our solar system built with Three.js. It incl
 - Uses OrbitControls for camera interaction
 - Responsive design with CSS media queries
 - Pure JavaScript implementation (no frameworks)
+
+##Deployed Link
+https://3d-solar-system-simulation-demo.netlify.app/
